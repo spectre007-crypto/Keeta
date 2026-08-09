@@ -1,2 +1,2 @@
 # Keeta
-L1 Chain
+L2 Chain
